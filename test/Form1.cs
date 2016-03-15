@@ -19,7 +19,12 @@ namespace test
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("this is a button")
+            MessageBox.Show("this is a button");
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("this is the second button");
         }
     }
 }
