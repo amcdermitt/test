@@ -26,5 +26,10 @@ namespace test
         {
             MessageBox.Show("this is the second button");
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("this is the second button");
+        }
     }
 }
